@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Hi, Hamza Ihsan here, I am a Web and Mobile app developer with experience in design and UI/UX. I am currently studying computer science at Bahria University Islamabad.  My hobbies are photography, gardening, and learning new skills. I build amazing apps and software daily which focuses on providing amazing user experiences, Follow me on Twitter to learn more about their progress and peace out :).";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -44,8 +44,7 @@ const skillsList = [
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
  */
-const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+const detailOrQuote = "";
 
 const About = () => {
   return (
